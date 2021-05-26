@@ -1907,6 +1907,31 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-syvNHDUsJL {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/door-open1-2000x1221.jpg");
+}
+.cid-syvNHDUsJL .card-wrapper {
+  padding-right: 2rem;
+}
+@media (max-width: 992px) {
+  .cid-syvNHDUsJL .card {
+    margin-bottom: 2rem!important;
+  }
+  .cid-syvNHDUsJL .card-wrapper {
+    padding: 0 1rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-syvNHDUsJL .link-wrap {
+    align-items: center;
+  }
+}
+.cid-syvNHDUsJL .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
 .cid-sytMk3FoO0 {
   padding-top: 5rem;
   padding-bottom: 5rem;
