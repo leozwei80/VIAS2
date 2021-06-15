@@ -3077,6 +3077,16 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-szIcWSLyEY {
+  background-image: url("../../../assets/images/mobile-checking-2000x992.jpg");
+}
+.cid-szIcWSLyEY .mbr-section-title {
+  text-align: center;
+}
+.cid-szIcWSLyEY .mbr-text,
+.cid-szIcWSLyEY .mbr-section-btn {
+  text-align: left;
+}
 .cid-syzReghK4U {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -4389,30 +4399,8 @@ a {
     left: -1rem;
   }
 }
-.cid-syvOiHhZfN {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background-color: #e5c04e;
-}
-.cid-syvOiHhZfN .row {
-  align-items: center;
-}
-@media (max-width: 991px) {
-  .cid-syvOiHhZfN .image-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-syvOiHhZfN .text-wrapper {
-    padding: 0 2rem;
-  }
-}
-.cid-syvOiHhZfN .mbr-section-title {
-  color: #232323;
-}
-.cid-syvOiHhZfN .mbr-text,
-.cid-syvOiHhZfN .mbr-section-btn {
-  color: #232323;
+.cid-sA0U0op6Ta {
+  background-image: url("../../../assets/images/app-design1-1800x1200.jpg");
 }
 .cid-syB5PFJNVV {
   padding-top: 6rem;
@@ -6615,6 +6603,9 @@ a {
   .cid-sz4PMmUKj4 .card-wrapper {
     margin-bottom: 2rem;
   }
+}
+.cid-szIM3RGJQe {
+  background-image: url("../../../assets/images/background10.jpg");
 }
 .cid-sytMk3FoO0 {
   padding-top: 5rem;
